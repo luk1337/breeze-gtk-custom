@@ -1,1 +1,6 @@
 @import url("/usr/share/themes/Breeze/gtk-4.0/gtk.css");
+
+window {
+    border-radius: 0;
+    box-shadow: none;
+}
