@@ -4,3 +4,11 @@ window {
     border-radius: 0;
     box-shadow: none;
 }
+
+/* https://invent.kde.org/plasma/breeze-gtk/-/merge_requests/90 */
+.titlebar windowcontrols button {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
